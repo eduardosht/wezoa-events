@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/wezoa-events/static/js/main.3e9d0128.chunk.js",
-    "main.js.map": "/wezoa-events/static/js/main.3e9d0128.chunk.js.map",
+    "main.js": "/wezoa-events/static/js/main.a3aa6964.chunk.js",
+    "main.js.map": "/wezoa-events/static/js/main.a3aa6964.chunk.js.map",
     "runtime-main.js": "/wezoa-events/static/js/runtime-main.9d049e5f.js",
     "runtime-main.js.map": "/wezoa-events/static/js/runtime-main.9d049e5f.js.map",
     "static/js/2.a133935e.chunk.js": "/wezoa-events/static/js/2.a133935e.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.9d049e5f.js",
     "static/js/2.a133935e.chunk.js",
-    "static/js/main.3e9d0128.chunk.js"
+    "static/js/main.a3aa6964.chunk.js"
   ]
 }
