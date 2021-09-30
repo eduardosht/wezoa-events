@@ -9,9 +9,10 @@ import Event from './pages/Event';
 ReactDOM.render(
   <React.StrictMode>
     <Router>
-      <Route exact path="/add-event" render={Event} />
-      <Route path="/home" component={Home} />
       <Route path="/" exact component={Home} />
+      <Route path="/wezoa-events" exact component={Home} />
+      <Route path="/home" component={Home} />
+      <Route path="/add-event" render={Event} />
       <Route path="/dashboard" component={Dashboard} />
     </Router>
   </React.StrictMode>,
